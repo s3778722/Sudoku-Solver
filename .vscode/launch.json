@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KillerBackTrackingSolver",
+            "request": "launch",
+            "mainClass": "solver.KillerBackTrackingSolver",
+            "projectName": "rmitSudoku 2_ee355f53"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DancingLinksSolver",
+            "request": "launch",
+            "mainClass": "solver.DancingLinksSolver",
+            "projectName": "rmitSudoku 2_ee355f53"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AlgorXSolver",
+            "request": "launch",
+            "mainClass": "solver.AlgorXSolver",
+            "projectName": "rmitSudoku 2_ee355f53"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BackTrackingSolver",
+            "request": "launch",
+            "mainClass": "solver.BackTrackingSolver",
+            "projectName": "rmitSudoku 2_ee355f53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RmitSudoku<rmitSudoku 2_ee355f53>",
+            "request": "launch",
+            "mainClass": "RmitSudoku",
+            "projectName": "rmitSudoku 2_ee355f53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdSudokuGrid<rmitSudoku 2_ee355f53>",
+            "request": "launch",
+            "mainClass": "grid.StdSudokuGrid",
+            "projectName": "rmitSudoku 2_ee355f53"
+        }
+    ]
+}
